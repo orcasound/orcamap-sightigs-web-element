@@ -56,6 +56,7 @@ If you customize the configuration a lot, you can consider moving them to indivi
 ## Local Demo with `web-dev-server`
 
 ```bash
+npm install
 npm start
 ```
 
